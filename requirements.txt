@@ -1,0 +1,6 @@
+otter-grader
+datascience
+matplotlib
+ipykernel
+ipywidgets
+numpy
