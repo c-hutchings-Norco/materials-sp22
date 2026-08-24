@@ -1,0 +1,42 @@
+﻿Id,What is your gender?,List your favorite 4 digits,What is your eye color?,What is your height in inches,List the value of cash on you right now,Number of keys you carry,Number of credit cards you have today,Pulse rate,Do you exercise regularly?,Number of units taking this semester?,Are you employed?,Do you have children?,Do you smoke?,Which hand is your dominant hand?,What is your shoe size?,What is your birth month,Does pineapple belong on pizza?,Do you own a car?,How many people have you dated?,Are you religious?,Number of pets you own,Do you have Apple or Android?,Have you had bad experiences with math?,Have you traveled outside of CA?,Have you traveled outside of the US?,Do you know how to swim?,Do you like to cook?,Which pant leg do you put on first?,Which position do you sleep in?,Hours of sleep you had last night,Number of piercings,How many people have you texted today?,"How do you rate yourself on the extroversion scale with 10 being the most extroverted, 1 being the most introverted, and 5 neither extroverted nor introverted?"
+1,Male,1009,Black,66,20,2,1,106,Yes,3,Yes,No,No,Right,9.5,March,No,No,0,Yes,0,Apple,Yes,Yes,Yes,Yes,Yes,Left leg first,Right side,8,0,3,5
+2,Female,4287,Black,62,0,0,0,65,Maybe,3,No,No,No,Right,7.5,March,Maybe,No,0,Maybe,0,Apple,Maybe,Yes,Yes,Yes,Yes,Right leg first,Stomach,9,2,5,7
+3,Male,8710,Brown,73,0,3,0,43,Maybe,,No,No,No,Right,13,October,No,No,2,Yes,1,Apple,No,Yes,Yes,Maybe,No,Left leg first,Right side,6,0,3,8
+4,Male,6721,Brown,68,0,0,1,78,Yes,1,No,No,No,Right,11,July,Yes,Yes,0,Yes,1,Apple,Yes,Yes,No,Yes,Yes,Left leg first,Right side,10,0,23,8
+5,Male,7102,Brown,71,40,0,0,100,Yes,1,No,No,No,Right,13,November,No,No,3,Yes,3,Android,No,Yes,No,Yes,Yes,Left leg first,Back,8,0,9,3
+6,Male,,Black,68,0,2,0,52,Yes,2,Maybe,No,No,Right,10,February,No,No,0,Yes,0,Apple,No,Yes,Yes,Yes,Maybe,Right leg first,Stomach,6,0,3,3
+7,Female,4,Green,66,0,2,1,31,Yes,40,No,No,No,Right,8.5,February,Maybe,Yes,0,Maybe,2,Android,Yes,Yes,Yes,Yes,Yes,Right leg first,Back,11,2,6,5
+8,Female,6192,Brown,67,0,0,0,75,Yes,3,No,No,No,Right,9,June,Maybe,No,0,Yes,2,Apple,No,Yes,Yes,Yes,Yes,Right leg first,Right side,8,2,7,7
+9,Female,7453,Brown,62,0,2,0,65,No,10,No,No,No,Right,6,April,Yes,No,0,No,5,Apple,Yes,Yes,Yes,Yes,Yes,Right leg first,Right side,6,2,4,3
+10,Male,8796,Black,63,0,0,0,65,Yes,3,No,No,No,Right,8,April,Yes,No,0,No,0,Apple,No,Yes,Yes,Yes,Yes,Right leg first,Right side,7,0,3,6
+11,Male,7310,Black,64,0,5,0,80,Maybe,6,Maybe,Maybe,Maybe,Ambidextrous,10,March,Yes,Maybe,0,Maybe,0,Apple,No,Yes,Yes,Maybe,No,Right leg first,Left side,4,0,3,3
+12,Male,3458,Brown,70,1,0,0,75,No,,No,No,No,Right,11,January,Yes,No,0,Maybe,1,Apple,No,Yes,No,Yes,Maybe,Don't know,Left side,8,0,0,5
+13,Female,2468,Blue,61,26,4,4,93,Yes,3,Yes,Yes,No,Right,7.5,July,Yes,Yes,6,Yes,3,Android,Yes,Yes,Yes,Yes,No,Right leg first,Stomach,8,4,1,2
+14,Male,5384,Green,71,1200,2,8,92,No,4,Yes,Yes,No,Right,12,March,Yes,Yes,25,Yes,7,Apple,No,Yes,Yes,Yes,Yes,Left leg first,Right side,8.5,0,6,5
+15,Female,1927,Brown,63,0,2,1,72,Maybe,7,No,No,No,Right,8,February,Maybe,No,0,Maybe,1,Apple,No,Yes,Yes,Yes,No,Right leg first,Right side,5,1,10,5
+16,Female,3696,Brown,62,0,2,2,80,No,14,No,No,No,Right,6,July,No,Yes,4,Yes,1,Apple,Yes,Yes,Yes,Yes,Yes,Right leg first,Left side,12,8,3,4
+17,Female,1789,Brown,67,0.75,2,1,60,Yes,11,Yes,No,No,Right,7.5,May,Yes,Yes,3,No,3,Apple,Yes,Yes,Yes,Yes,Yes,Right leg first,Left side,8,2,2,3
+18,Female,8429,Brown,60.75,20,2,1,78,Maybe,16,Yes,No,No,Right,7.5,June,Yes,Yes,0,No,3,Apple,Yes,Yes,Yes,Maybe,Maybe,Right leg first,Left side,6,2,0,5
+19,Female,7958,Brown,66,1103,1,1,83,Maybe,7,No,No,No,Right,9,November,Yes,Yes,1,Yes,2,Android,Yes,Yes,Yes,Yes,Yes,Don't know,Left side,7,2,4,2
+20,Female,5362,Brown,64,1000,1,5,98,Yes,8,Yes,Yes,No,Right,7.5,February,No,Yes,1,Yes,0,Android,No,No,Yes,No,Yes,Right leg first,Right side,6,1,2,7
+21,Female,1024,Brown,63,0,4,1,80,No,12,Yes,No,No,Right,7.5,October,Maybe,Yes,3,Maybe,1,Apple,Yes,Yes,Yes,Yes,Yes,Left leg first,Stomach,5,2,4,5
+22,Male,1234,Blue,67,0,2,15,72,Yes,26,No,Yes,No,Right,10,May,Yes,No,20,No,0,Android,No,Yes,Yes,Yes,Maybe,Don't know,Stomach,7,0,0,5
+23,Male,4673,Brown,72,38,4,1,88,No,15,No,,No,Right,12,January,Yes,Yes,5,No,4,Apple,No,Yes,Yes,Yes,Yes,Right leg first,Left side,5,0,2,2
+24,Male,10,Other,4,0,0,1,56,No,9,No,No,No,Right,5.5,February,Maybe,No,0,Yes,6,Apple,No,Yes,No,No,Yes,Left leg first,Back,8,0,0,6
+25,Female,1247,Black,63,20,3,3,72,Yes,16,Yes,No,No,Right,6.5,December,No,Yes,5,Yes,3,Apple,Yes,Yes,Yes,No,Yes,Right leg first,Right side,8,4,10,7
+26,Male,1234,Brown,,150,2,2,,Maybe,7,Yes,No,No,Right,6,July,No,Yes,2,Yes,3,Apple,Yes,Yes,Yes,Yes,No,Left leg first,Left side,9,0,2,7.5
+27,Female,6769,Black,69,8,0,0,78,No,15,Maybe,No,No,Right,7.5,May,Yes,No,1,Yes,2,Apple,Yes,No,No,No,Maybe,Right leg first,Stomach,8,2,1,5
+28,Male,6766,Brown,175,2590,2,24,80,Yes,20,Yes,Yes,No,Right,9.5,January,No,Yes,1,Yes,0,Android,Yes,Yes,Yes,No,Yes,Right leg first,Left side,7,5,3,5
+29,Male,1234,Blue,64,0,1,1,75,Yes,13,No,No,No,Right,8,May,Maybe,No,0,Yes,1,Apple,Maybe,Yes,Yes,Maybe,Maybe,Don't know,Back,6,0,0,4
+30,Male,9441,Brown,71,72,2,5,85,Yes,20,No,No,No,Right,11,June,Yes,Yes,1,Yes,2,Apple,Yes,Yes,Yes,No,Yes,Right leg first,Right side,8,0,1,2
+31,Male,1015,Brown,71,0,3,1,52,Yes,10,Yes,No,No,Right,12,December,Maybe,Yes,1,Yes,0,Apple,Yes,Yes,Yes,Yes,Yes,Don't know,Right side,7,0,3,7
+32,Male,9441,Brown,71,72,2,5,89,Yes,20,No,No,No,Right,11,June,Yes,Yes,1,Yes,2,Apple,Yes,Yes,Yes,No,Yes,Right leg first,Right side,4,0,2,2
+33,Female,3263,Brown,65,1100,5,1,110,No,11,Yes,No,No,Right,8,December,Yes,Yes,2,Yes,3,Apple,Yes,Yes,Yes,No,Yes,Left leg first,Left side,6,12,0,4
+34,Male,8520,Brown,72,200,1,2,70,No,13,Yes,No,No,Right,12,May,Yes,Yes,2,Yes,1,Apple,No,Yes,Yes,Yes,Yes,Right leg first,Back,7,0,2,7
+35,Male,2048,Brown,69,52,2,1,69,Maybe,4,Yes,No,No,Right,10,August,Yes,Yes,2,Yes,2,Android,Yes,Yes,Yes,Yes,Yes,Right leg first,Left side,6,2,1,6
+36,Female,719,Brown,65,20,0,0,60,No,16,No,No,No,Right,7,July,No,No,5,Yes,3,Apple,Yes,Yes,Yes,Yes,Yes,Right leg first,Right side,7,2,4,8
+37,Female,7802,Brown,62,49,9,6,101,Maybe,6,Yes,No,No,Right,6.5,July,Yes,Yes,3,Yes,2,Apple,Maybe,Yes,Yes,Yes,Yes,Right leg first,Left side,7,4,3,3
+38,Female,4763,Brown,63,65,4,0,86,Yes,5,Yes,No,No,Right,5,July,No,Yes,0,Yes,0,Apple,Maybe,No,No,Yes,Yes,Right leg first,Left side,9,0,1,5
+39,Male,7942,Blue,72,60,3,3,62,Yes,15,No,No,No,Left,11,February,Yes,Yes,5,Yes,2,Apple,No,Yes,Yes,Yes,No,Left leg first,Right side,15,0,9,7
+40,Male,6148,Black,71,0,2,1,65,Yes,14,Yes,No,No,Right,12,January,No,No,1,Yes,3,Apple,Yes,Yes,Yes,Yes,Maybe,Left leg first,Back,8,3,5,4
+41,Male,8520,Brown,72,200,1,2,70,No,13,Yes,No,No,Right,12,May,Yes,Yes,2,Yes,3,Apple,No,Yes,Yes,Yes,Yes,Right leg first,Back,7,0,3,6
